@@ -78,7 +78,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
                 <p> You have Successfully registered for the course <span class="highlight">"${courseName}"</span>.
                     We are excited to have you as a participant!
                 </p>
-                <a class = "cta" href="https://studynotion-edtech-project.vercel.app/dashboard">Go to Dashboard</a>
+                <a class = "cta" href="https://studynotion-dev-abhi.vercel.app">Go to Dashboard</a>
             </div>
             <div class="support">
                 If you have any questions or need assistance, please feel free to reach out to us at 
